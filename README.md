@@ -1,2 +1,3 @@
 # Demo-Python
-Python Code
+Python Codes
+Author - Syed Naveed Ahmed
